@@ -1,2 +1,2 @@
 # Cloud-Security
-This repository contains writeups showcasing my knowledge on cloud security.
+This repository contains walkthrough/writeups showcasing my knowledge on cloud security.
